@@ -1,4 +1,4 @@
-# learn
+# What I have learnt.
 
 ## Git vs Github
 
