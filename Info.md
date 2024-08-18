@@ -15,7 +15,7 @@ GitHub:
 - GitHub is a web-based platform that provides a centralized location for Git repositories.
 - It allows developers to host, share, and collaborate on Git repositories with others.
 - GitHub offers additional features like issue tracking, project management, and social networking.
-- click [here]() to learn more about Git hubhttps://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet
+- click [here](hubhttps://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet) to learn more about Git 
   
 
 **Key differences**
